@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b5961288-8b3e-4a5e-82fb-fefd96c2cb20" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1f3NA0oVneZi52kcvUemOgGuA7b" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="django_project" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="django_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5961288-8b3e-4a5e-82fb-fefd96c2cb20" name="Default Changelist" comment="" />
+      <created>1595442668594</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595442668594</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596147590179">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1596147590179" />
+    <state x="436" y="238" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595819669002">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="436" y="238" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.811@0.23.1440.811" timestamp="1595819669002" />
+    <state x="584" y="215" key="FileChooserDialogImpl" timestamp="1596148009354">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="584" y="215" key="FileChooserDialogImpl/0.0.1440.900@0.0.1440.900" timestamp="1596148009354" />
+    <state width="1419" height="244" key="GridCell.Tab.0.bottom" timestamp="1596148060087">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="244" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1596148060087" />
+    <state width="1419" height="207" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1596055140601" />
+    <state width="1419" height="207" key="GridCell.Tab.0.bottom/0.23.1440.814@0.23.1440.814" timestamp="1596119480046" />
+    <state width="1419" height="207" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1596118102325" />
+    <state width="1419" height="207" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1596118545364" />
+    <state width="1419" height="244" key="GridCell.Tab.0.center" timestamp="1596148060084">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="244" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1596148060084" />
+    <state width="1419" height="207" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1596055140600" />
+    <state width="1419" height="207" key="GridCell.Tab.0.center/0.23.1440.814@0.23.1440.814" timestamp="1596119480045" />
+    <state width="1419" height="207" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1596118102324" />
+    <state width="1419" height="207" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1596118545363" />
+    <state width="1419" height="244" key="GridCell.Tab.0.left" timestamp="1596148060082">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="244" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1596148060082" />
+    <state width="1419" height="207" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1596055140599" />
+    <state width="1419" height="207" key="GridCell.Tab.0.left/0.23.1440.814@0.23.1440.814" timestamp="1596119480044" />
+    <state width="1419" height="207" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1596118102324" />
+    <state width="1419" height="207" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1596118545362" />
+    <state width="1419" height="244" key="GridCell.Tab.0.right" timestamp="1596148060086">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1596148060086" />
+    <state width="1419" height="207" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1596055140600" />
+    <state width="1419" height="207" key="GridCell.Tab.0.right/0.23.1440.814@0.23.1440.814" timestamp="1596119480045" />
+    <state width="1419" height="207" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1596118102325" />
+    <state width="1419" height="207" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1596118545363" />
+    <state x="221" y="51" key="SettingsEditor" timestamp="1596147423698">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="51" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1596147423698" />
+    <state x="221" y="69" key="SettingsEditor/0.23.1440.814@0.23.1440.814" timestamp="1596139422796" />
+    <state x="454" y="261" key="com.intellij.ide.util.TipDialog" timestamp="1596146997118">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="454" y="261" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1596146997118" />
+    <state x="454" y="259" key="com.intellij.ide.util.TipDialog/0.23.1440.814@0.23.1440.814" timestamp="1596139089281" />
+    <state x="378" y="178" width="837" height="550" key="find.popup" timestamp="1596148174490">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="378" y="178" width="837" height="550" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1596148174490" />
+    <state x="378" y="184" width="683" height="486" key="find.popup/0.23.1440.814@0.23.1440.814" timestamp="1596137840966" />
+  </component>
+</project>
